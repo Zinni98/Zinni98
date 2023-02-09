@@ -18,7 +18,7 @@ About me:
 - 🔭 I am interested in Computer Vision, Transfer Learning and Semi-Supervised Learning.
 - :zap: I also enjoy to solve Satisfiability problems using SMT-solvers like [PySMT](https://pypi.org/project/PySMT/) and [mathsat](https://mathsat.fbk.eu/)
 
-:mag_right: :mag_right: **I am currently seeking for an internship opportunity in the field of machine learning applied to computer vision tasks** :mag_right: :mag_right:
+:mag_right: :mag_right: **I am currently seeking for an internship position in the field of machine learning applied to computer vision tasks** :mag_right: :mag_right:
 
 
 ## My stats
