@@ -13,10 +13,10 @@
 
 About me:
 
-- :green_book: Bachelor Degree in Internet of things, Big Data & Web @ ![University of Udine](https://www.uniud.it/it)
-- :book: Student in Artificial Intelligence Systems @ ![University of Trento](https://www.unitn.it/)
+- :green_book: Bachelor Degree in Internet of things, Big Data & Web @ [University of Udine](https://www.uniud.it/it)
+- :book: Student in Artificial Intelligence Systems @ [University of Trento](https://www.unitn.it/)
 - 🔭 I’m interested in Computer Vision, Transfer Learning and Semi-Supervised Learning.
-- :zap: I also enjoy to solve Satisfiability problems using SMT-solvers like ![PySMT](https://pypi.org/project/PySMT/) and ![mathsat](https://mathsat.fbk.eu/)
+- :zap: I also enjoy to solve Satisfiability problems using SMT-solvers like [PySMT](https://pypi.org/project/PySMT/) and [mathsat](https://mathsat.fbk.eu/)
 
 :mag_right: :mag_right: I'm currently searching for an internship position in the field of machine learning applied to computer vision tasks :mag_right: :mag_right:
 
