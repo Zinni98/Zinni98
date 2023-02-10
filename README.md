@@ -13,8 +13,8 @@
 
 About me:
 
-- :green_book: Bachelor Degree in Internet of things, Big Data & Web @ [University of Udine](https://www.uniud.it/it)
-- :book: Student in Artificial Intelligence Systems @ [University of Trento](https://www.unitn.it/)
+- :book: MSc student in Artificial Intelligence Systems @ [University of Trento](https://www.unitn.it/)
+- :green_book: Bachelor Degree in Internet of things, Big Data & Web @ [University of Udine](https://www.uniud.it/it
 - 🔭 I am interested in Computer Vision, Transfer Learning and Semi-Supervised Learning.
 - :zap: I also enjoy to solve Satisfiability problems using SMT-solvers like [PySMT](https://pypi.org/project/PySMT/) and [mathsat](https://mathsat.fbk.eu/)
 
